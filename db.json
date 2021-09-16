@@ -12,7 +12,7 @@
     {
       "id": 3,
       "name": "qushlar",
-      "ourcat": ""
+      "ourcat": "13"
     },
     {
       "id": 4,
@@ -24,8 +24,25 @@
       "name": "gullar",
       "ourcat": ""
     }
-
   ],
+  "ourcategs": [{
+    "id": 11,
+    "name": "laptoplar"
+  },
+  {
+    "id": 12,
+    "name": "moshinlar"
+  },
+  {
+    "id": 13,
+    "name": "hayvonlar"
+  },
+  {
+    "id": 14,
+    "name": "usimliklar"
+  }
+
+],
   "posts": [{
     "id": 1,
     "title": "json-server",
