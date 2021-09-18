@@ -26,19 +26,19 @@
     }
   ],
   "ourcategs": [{
-    "id": 11,
+    "id": "11",
     "name": "laptoplar"
   },
   {
-    "id": 12,
+    "id": "12",
     "name": "moshinlar"
   },
   {
-    "id": 13,
+    "id": "13",
     "name": "hayvonlar"
   },
   {
-    "id": 14,
+    "id": "14",
     "name": "usimliklar"
   }
 
